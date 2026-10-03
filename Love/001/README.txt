@@ -1,0 +1,1 @@
+可以调整心跳幅度：修改@keyframes beat里各阶段的scale值；改心跳快慢就改.heart的animation时长。光点数量在脚本中i < 14处调整。
